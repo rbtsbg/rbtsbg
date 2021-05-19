@@ -1,6 +1,6 @@
 # Hi there 😃
 
-I am Robert, an ML Engineer (?) and PhD Candidate at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
+I am Robert, an ML person (?) and PhD Candidate at the [Speech and Language Technologies Lab](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) of the German Research Center for Artificial Intelligence (DFKI). 
 
 My interests include
 
